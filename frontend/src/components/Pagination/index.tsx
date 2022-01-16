@@ -1,7 +1,8 @@
-import {ReactComponent as Arrow} from 'assets/img/arrow.svg'
-import './styles.css'
+import { ReactComponent as Arrow } from 'assets/img/arrow.svg';
+import './style.css';
 
 function Pagination() {
+
     return (
         <div className="dsmovie-pagination-container">
             <div className="dsmovie-pagination-box">
